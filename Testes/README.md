@@ -1,0 +1,1 @@
+Essa pasta so deve ser utilizada para armazenar o documento com testes
